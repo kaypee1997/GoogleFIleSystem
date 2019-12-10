@@ -1,0 +1,70 @@
+Dec 05, 2019 9:20:15 PM Server <init>
+INFO: Server5initialization
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=9005,localport=64984]
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=5005,localport=64985]
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=6008,localport=64986]
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=7010,localport=64987]
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=8011,localport=64988]
+Dec 05, 2019 9:20:33 PM Server <init>
+INFO: Starting thread number5
+Dec 05, 2019 9:20:33 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:33 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64997,localport=10009]
+Dec 05, 2019 9:20:40 PM Server <init>
+INFO: Starting thread number6
+Dec 05, 2019 9:20:40 PM Server <init>
+INFO: connected to all clients
+Dec 05, 2019 9:20:40 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:40 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=65003,localport=10010]
+Dec 05, 2019 9:23:00 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:00 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:00 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:05 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:05 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:10 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:15 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:15 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:20 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:20 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND

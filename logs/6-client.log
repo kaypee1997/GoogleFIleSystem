@@ -1,0 +1,270 @@
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Client6initialization
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Started thread number 0
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Started thread number1
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=9006,localport=64992]
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10001,localport=64993]
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10003,localport=64994]
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Started thread number2
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10005,localport=64995]
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Started thread number3
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10007,localport=64996]
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Started thread number4
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10009,localport=64997]
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Started thread number5
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: connected to metadata server and servers
+Dec 05, 2019 9:20:33 PM Client <init>
+INFO: Listening to console
+Dec 05, 2019 9:21:07 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:21:07 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:21:09 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:21:09 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:21:09 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:09 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:21:09 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:09 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:21:09 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:12 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:21:12 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:21:12 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:18 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:21:18 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:21:21 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:21:21 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:21:21 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:21 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:21:21 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:21 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:21:21 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:24 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:21:24 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:21:24 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:27 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:21:27 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:21:29 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:21:29 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:21:29 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:29 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:21:29 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:29 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:21:29 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:32 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:21:32 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:21:32 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:37 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:21:37 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:21:39 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:21:39 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:21:39 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:39 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:21:39 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:39 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:21:39 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:42 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:21:42 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:21:42 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:46 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:21:46 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:21:50 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:21:50 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:21:50 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:50 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:21:50 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:50 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:21:50 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:53 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:21:53 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:21:53 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:55 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:21:55 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:21:57 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:21:57 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:21:57 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:57 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:21:57 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:21:57 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:21:57 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:00 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:22:00 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:22:00 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:10 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:22:10 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:22:13 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:22:13 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:22:13 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:13 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:22:13 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:13 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:22:13 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:16 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:22:16 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:22:16 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:23 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:22:23 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:22:25 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:22:25 PM Client$ChannelHandler run
+INFO: server4agreed
+Dec 05, 2019 9:22:25 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:25 PM Client$ChannelHandler run
+INFO: server1agreed
+Dec 05, 2019 9:22:25 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:25 PM Client$ChannelHandler run
+INFO: server2agreed
+Dec 05, 2019 9:22:25 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:28 PM Client$ChannelHandler run
+INFO: 2 phase commit implemented successfully
+Dec 05, 2019 9:22:28 PM Client$ChannelHandler run
+INFO: sent append complete to metadataserver
+Dec 05, 2019 9:22:28 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:52 PM Client <init>
+INFO: append command to metadata server
+Dec 05, 2019 9:22:52 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:22:55 PM Client <init>
+INFO: create command sent to MS
+Dec 05, 2019 9:22:55 PM Client$ChannelHandler run
+INFO: server1aborted
+Dec 05, 2019 9:22:55 PM Client$ChannelHandler run
+INFO: server4aborted
+Dec 05, 2019 9:22:55 PM Client$ChannelHandler run
+INFO: server2aborted
+Dec 05, 2019 9:22:55 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:55 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:55 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:22:58 PM Client$ChannelHandler run
+INFO: 2 phase commit cannot be completed
+Dec 05, 2019 9:22:58 PM Client$ChannelHandler run
+INFO: sent append incomplete to metadataserver
+Dec 05, 2019 9:22:58 PM Client$ChannelHandler run
+INFO: data available

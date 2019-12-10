@@ -1,0 +1,120 @@
+Dec 05, 2019 9:19:40 PM Server <init>
+INFO: Server1initialization
+Dec 05, 2019 9:19:40 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:19:40 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:19:40 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=9001,localport=64970]
+Dec 05, 2019 9:19:48 PM Server <init>
+INFO: Starting thread number1
+Dec 05, 2019 9:19:48 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:19:48 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:19:48 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64973,localport=5002]
+Dec 05, 2019 9:20:01 PM Server <init>
+INFO: Starting thread number2
+Dec 05, 2019 9:20:01 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:01 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:01 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64977,localport=5003]
+Dec 05, 2019 9:20:08 PM Server <init>
+INFO: Starting thread number3
+Dec 05, 2019 9:20:08 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:08 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:08 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64981,localport=5004]
+Dec 05, 2019 9:20:16 PM Server <init>
+INFO: Starting thread number4
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:16 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64985,localport=5005]
+Dec 05, 2019 9:20:33 PM Server <init>
+INFO: Starting thread number5
+Dec 05, 2019 9:20:33 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:33 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:33 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64993,localport=10001]
+Dec 05, 2019 9:20:40 PM Server <init>
+INFO: Starting thread number6
+Dec 05, 2019 9:20:40 PM Server <init>
+INFO: connected to all clients
+Dec 05, 2019 9:20:40 PM Server$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Server$ChannelHandler run
+INFO: Inside run()
+Dec 05, 2019 9:20:40 PM Server$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=/127.0.0.1,port=64999,localport=10002]
+Dec 05, 2019 9:20:56 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:21:09 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:21:12 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:21:13 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:21:21 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:21:24 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:21:24 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:21:29 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:21:32 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:21:32 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:21:39 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:21:42 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:21:42 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:21:50 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:21:53 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:21:53 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:21:57 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:22:00 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:22:00 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:22:13 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:22:16 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:22:16 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:22:25 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:22:28 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMIT
+Dec 05, 2019 9:22:29 PM Server$ChannelHandler run
+INFO: Committed file
+Dec 05, 2019 9:22:55 PM Server$ChannelHandler run
+INFO: Message from the client 6of type COMMITREQUEST
+Dec 05, 2019 9:22:55 PM Server$ChannelHandler run
+INFO: Cannot commit write as file size is not enough, added null char
+Dec 05, 2019 9:23:00 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:10 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:15 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND
+Dec 05, 2019 9:23:15 PM Server$ChannelHandler run
+INFO: Message from the client 1of type CREATECOMMAND

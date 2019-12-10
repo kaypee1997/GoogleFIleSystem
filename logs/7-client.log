@@ -1,0 +1,62 @@
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Client7initialization
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Started thread number 0
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Started thread number1
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=9007,localport=64998]
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10002,localport=64999]
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Started thread number2
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10004,localport=65000]
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Started thread number3
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10006,localport=65001]
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Started thread number4
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10008,localport=65002]
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Started thread number5
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: connected to metadata server and servers
+Dec 05, 2019 9:20:40 PM Client <init>
+INFO: Listening to console
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: after socket input  initializationSocket[addr=localhost/127.0.0.1,port=10010,localport=65003]
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: Inside run before while
+Dec 05, 2019 9:20:40 PM Client$ChannelHandler run
+INFO: data available
+Dec 05, 2019 9:20:54 PM Client <init>
+INFO: 1
+Dec 05, 2019 9:20:54 PM Client <init>
+INFO: create command to metadata server
+Dec 05, 2019 9:20:54 PM Client <init>
+INFO: Give <filename> and press enter
+Dec 05, 2019 9:20:56 PM Client <init>
+INFO: create command sent to MS

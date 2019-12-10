@@ -1,0 +1,30 @@
+Dec 05, 2019 9:19:07 PM MetadataServer <init>
+INFO: MetadataServer  initialization
+Dec 05, 2019 9:19:40 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@6d03e736 java.io.ObjectOutputStream@568db2f2 Socket[addr=/127.0.0.1,port=64970,localport=9001]
+Dec 05, 2019 9:19:40 PM MetadataServer <init>
+INFO: Starting thread number0
+Dec 05, 2019 9:19:48 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@378bf509 java.io.ObjectOutputStream@5fd0d5ae Socket[addr=/127.0.0.1,port=64972,localport=9002]
+Dec 05, 2019 9:19:48 PM MetadataServer <init>
+INFO: Starting thread number1
+Dec 05, 2019 9:20:01 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@2d98a335 java.io.ObjectOutputStream@16b98e56 Socket[addr=/127.0.0.1,port=64976,localport=9003]
+Dec 05, 2019 9:20:01 PM MetadataServer <init>
+INFO: Starting thread number2
+Dec 05, 2019 9:20:08 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@7ef20235 java.io.ObjectOutputStream@27d6c5e0 Socket[addr=/127.0.0.1,port=64980,localport=9004]
+Dec 05, 2019 9:20:08 PM MetadataServer <init>
+INFO: Starting thread number3
+Dec 05, 2019 9:20:16 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@4f3f5b24 java.io.ObjectOutputStream@15aeb7ab Socket[addr=/127.0.0.1,port=64984,localport=9005]
+Dec 05, 2019 9:20:16 PM MetadataServer <init>
+INFO: Starting thread number4
+Dec 05, 2019 9:20:33 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@7b23ec81 java.io.ObjectOutputStream@6acbcfc0 Socket[addr=/127.0.0.1,port=64992,localport=9006]
+Dec 05, 2019 9:20:33 PM MetadataServer <init>
+INFO: Starting thread number5
+Dec 05, 2019 9:20:40 PM MetadataServer$ChannelHandler <init>
+INFO: After socket initializationjava.io.ObjectInputStream@5f184fc6 java.io.ObjectOutputStream@3feba861 Socket[addr=/127.0.0.1,port=64998,localport=9007]
+Dec 05, 2019 9:20:40 PM MetadataServer <init>
+INFO: Starting thread number6

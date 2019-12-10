@@ -1,0 +1,13 @@
+
+
+
+Kashyap
+---TO BE UPDATED----
+
+
+Hema
+
+1. Github setup ,Instantiate servers   -- DONE
+2. Instantiate  clients ,setup connections. -- DONE
+3. Send messages and linux read write requests to mserver and servers. (test)
+4. heartbeat messages to mserver
